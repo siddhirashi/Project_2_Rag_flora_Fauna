@@ -1,7 +1,7 @@
 # Flora and Fauna in Indian Literature, extracted with RAG
 
 **Assignment 2 · Extraction of Indian cultural elements using RAG · Monsoon Semester 2026**
-Author: Siddhi Rashi Pandey · Digital Humanities and Social Sciences
+Author: Siddhi Rashi 25MA0012 · Digital Humanities and Social Sciences
 
 **Abstract.** I wanted to know which plants and animals appear in a handful of classic Indian texts, without reading every page myself. I built a small retrieval-augmented generation (RAG) pipeline: the texts are cut into chunks, the chunks most likely to mention plants or animals are retrieved by embedding similarity, and a local LLM running in LM Studio lists the names it finds. Every name is then checked against the passage it came from. The result is 50 flora names and 63 fauna names, saved in [`flora_fauna.py`](flora_fauna.py) in the format the assignment asked for.
 
