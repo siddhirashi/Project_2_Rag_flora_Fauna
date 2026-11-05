@@ -1,0 +1,1308 @@
+{
+ "accepted": [
+  {
+   "kind": "flora",
+   "name": "medicinal herb",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 580
+  },
+  {
+   "kind": "flora",
+   "name": "medicinal plant",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 580
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 581
+  },
+  {
+   "kind": "flora",
+   "name": "bamboo",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 728
+  },
+  {
+   "kind": "flora",
+   "name": "lily",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 728
+  },
+  {
+   "kind": "flora",
+   "name": "rice",
+   "category": "Crops",
+   "source": "jataka",
+   "chunk": 730
+  },
+  {
+   "kind": "flora",
+   "name": "banyan tree",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 924
+  },
+  {
+   "kind": "flora",
+   "name": "lilies",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 924
+  },
+  {
+   "kind": "fauna",
+   "name": "lion",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 924
+  },
+  {
+   "kind": "fauna",
+   "name": "birds",
+   "category": "Birds",
+   "source": "jataka",
+   "chunk": 924
+  },
+  {
+   "kind": "flora",
+   "name": "ebony",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "aloe",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "acacias",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "berries",
+   "category": "Crops",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "nuts",
+   "category": "Crops",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "lilies",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "fauna",
+   "name": "cuckoos",
+   "category": "Birds",
+   "source": "jataka",
+   "chunk": 943
+  },
+  {
+   "kind": "flora",
+   "name": "dhara",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "assakanua",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "khadira",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "kapittha",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "kaintthana",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "costus speciosus",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "fauna",
+   "name": "najjuha",
+   "category": "Birds",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "fauna",
+   "name": "puttajiva",
+   "category": "Insects",
+   "source": "jataka",
+   "chunk": 944
+  },
+  {
+   "kind": "flora",
+   "name": "lilies",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 950
+  },
+  {
+   "kind": "flora",
+   "name": "flowers",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 950
+  },
+  {
+   "kind": "flora",
+   "name": "herbs",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 950
+  },
+  {
+   "kind": "fauna",
+   "name": "bees",
+   "category": "Insects",
+   "source": "jataka",
+   "chunk": 950
+  },
+  {
+   "kind": "flora",
+   "name": "flowers",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "trees",
+   "category": "Trees",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "gourds",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "mustard",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "green garlic",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "lilies",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "jasmine",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "sweet sandal",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "cotton",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "indigo",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "cress",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "trumpet-flower",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "fauna",
+   "name": "crocodiles",
+   "category": "Reptiles",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "fauna",
+   "name": "water-beasts",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "fauna",
+   "name": "red deer",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "fauna",
+   "name": "lions",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "fauna",
+   "name": "tigers",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 951
+  },
+  {
+   "kind": "flora",
+   "name": "turmeric",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "flora",
+   "name": "camphor",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "flora",
+   "name": "liquorice-plant",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "lions",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "tigers",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "elephants",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "deer",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "jackals",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "dogs",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "fawns",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "yaks",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "antelopes",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "monkeys",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "bears",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "bulls",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "rhinoceros",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "mungoose",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "squirrel",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "boar",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "dog",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "jackal",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "loris",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "hare",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "speckled panther",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "wolf",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "fauna",
+   "name": "lizard",
+   "category": "Reptiles",
+   "source": "jataka",
+   "chunk": 952
+  },
+  {
+   "kind": "flora",
+   "name": "vilva",
+   "category": "Crops",
+   "source": "jataka",
+   "chunk": 985
+  },
+  {
+   "kind": "fauna",
+   "name": "lion",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 985
+  },
+  {
+   "kind": "fauna",
+   "name": "tiger",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 985
+  },
+  {
+   "kind": "fauna",
+   "name": "pard",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 985
+  },
+  {
+   "kind": "flora",
+   "name": "catmint",
+   "category": "Herbs",
+   "source": "jataka",
+   "chunk": 1008
+  },
+  {
+   "kind": "flora",
+   "name": "vilva fruit",
+   "category": "Crops",
+   "source": "jataka",
+   "chunk": 1008
+  },
+  {
+   "kind": "fauna",
+   "name": "geese",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1079
+  },
+  {
+   "kind": "fauna",
+   "name": "cranes",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1079
+  },
+  {
+   "kind": "fauna",
+   "name": "swans",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1079
+  },
+  {
+   "kind": "fauna",
+   "name": "chataka",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1080
+  },
+  {
+   "kind": "fauna",
+   "name": "peacocks",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1080
+  },
+  {
+   "kind": "flora",
+   "name": "boughs",
+   "category": "Trees",
+   "source": "meghaduta",
+   "chunk": 1104
+  },
+  {
+   "kind": "flora",
+   "name": "reverend boughs",
+   "category": "Trees",
+   "source": "meghaduta",
+   "chunk": 1104
+  },
+  {
+   "kind": "fauna",
+   "name": "vakas or cranes",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1104
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "meghaduta",
+   "chunk": 1108
+  },
+  {
+   "kind": "fauna",
+   "name": "musk deer",
+   "category": "Mammals",
+   "source": "meghaduta",
+   "chunk": 1154
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "meghaduta",
+   "chunk": 1177
+  },
+  {
+   "kind": "flora",
+   "name": "kunda",
+   "category": "Flowers",
+   "source": "meghaduta",
+   "chunk": 1177
+  },
+  {
+   "kind": "fauna",
+   "name": "peacock",
+   "category": "Birds",
+   "source": "meghaduta",
+   "chunk": 1188
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "meghaduta",
+   "chunk": 1192
+  },
+  {
+   "kind": "fauna",
+   "name": "fire-fly",
+   "category": "Insects",
+   "source": "meghaduta",
+   "chunk": 1192
+  },
+  {
+   "kind": "fauna",
+   "name": "serpent",
+   "category": "Reptiles",
+   "source": "meghaduta",
+   "chunk": 1225
+  },
+  {
+   "kind": "flora",
+   "name": "trees",
+   "category": "Trees",
+   "source": "meghaduta",
+   "chunk": 1348
+  },
+  {
+   "kind": "fauna",
+   "name": "deer",
+   "category": "Mammals",
+   "source": "meghaduta",
+   "chunk": 1348
+  },
+  {
+   "kind": "fauna",
+   "name": "roe",
+   "category": "Mammals",
+   "source": "meghaduta",
+   "chunk": 1348
+  },
+  {
+   "kind": "flora",
+   "name": "water-lily",
+   "category": "Flowers",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "flora",
+   "name": "lotus-bud",
+   "category": "Plants",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "fauna",
+   "name": "jackal",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "fauna",
+   "name": "worms",
+   "category": "Insects",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "fauna",
+   "name": "cow",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "fauna",
+   "name": "snake",
+   "category": "Reptiles",
+   "source": "panchatantra",
+   "chunk": 1395
+  },
+  {
+   "kind": "fauna",
+   "name": "heron",
+   "category": "Birds",
+   "source": "panchatantra",
+   "chunk": 1445
+  },
+  {
+   "kind": "fauna",
+   "name": "crab",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1445
+  },
+  {
+   "kind": "fauna",
+   "name": "jackals",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1507
+  },
+  {
+   "kind": "flora",
+   "name": "jasmine",
+   "category": "Flowers",
+   "source": "panchatantra",
+   "chunk": 1518
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Plants",
+   "source": "panchatantra",
+   "chunk": 1518
+  },
+  {
+   "kind": "fauna",
+   "name": "water-bees",
+   "category": "Insects",
+   "source": "panchatantra",
+   "chunk": 1518
+  },
+  {
+   "kind": "fauna",
+   "name": "bees",
+   "category": "Insects",
+   "source": "panchatantra",
+   "chunk": 1518
+  },
+  {
+   "kind": "fauna",
+   "name": "elephant-monarch",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1518
+  },
+  {
+   "kind": "fauna",
+   "name": "jackal",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1521
+  },
+  {
+   "kind": "fauna",
+   "name": "crow",
+   "category": "Birds",
+   "source": "panchatantra",
+   "chunk": 1521
+  },
+  {
+   "kind": "fauna",
+   "name": "fish",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1540
+  },
+  {
+   "kind": "flora",
+   "name": "tree",
+   "category": "Trees",
+   "source": "panchatantra",
+   "chunk": 1583
+  },
+  {
+   "kind": "fauna",
+   "name": "monkey",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1583
+  },
+  {
+   "kind": "fauna",
+   "name": "bird",
+   "category": "Birds",
+   "source": "panchatantra",
+   "chunk": 1583
+  },
+  {
+   "kind": "fauna",
+   "name": "firefly",
+   "category": "Insects",
+   "source": "panchatantra",
+   "chunk": 1583
+  },
+  {
+   "kind": "fauna",
+   "name": "crocodile",
+   "category": "Reptiles",
+   "source": "panchatantra",
+   "chunk": 1822
+  },
+  {
+   "kind": "fauna",
+   "name": "monkey",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1822
+  },
+  {
+   "kind": "fauna",
+   "name": "frog-king",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1832
+  },
+  {
+   "kind": "fauna",
+   "name": "snake",
+   "category": "Reptiles",
+   "source": "panchatantra",
+   "chunk": 1832
+  },
+  {
+   "kind": "fauna",
+   "name": "lion",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1848
+  },
+  {
+   "kind": "fauna",
+   "name": "deer",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1848
+  },
+  {
+   "kind": "fauna",
+   "name": "jackal",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1848
+  },
+  {
+   "kind": "flora",
+   "name": "rose-apple",
+   "category": "Flowers",
+   "source": "panchatantra",
+   "chunk": 1865
+  },
+  {
+   "kind": "fauna",
+   "name": "crocodile",
+   "category": "Reptiles",
+   "source": "panchatantra",
+   "chunk": 1865
+  },
+  {
+   "kind": "fauna",
+   "name": "monkey",
+   "category": "Mammals",
+   "source": "panchatantra",
+   "chunk": 1865
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "shakuntala",
+   "chunk": 1981
+  },
+  {
+   "kind": "flora",
+   "name": "dull water-plants",
+   "category": "Plants",
+   "source": "shakuntala",
+   "chunk": 1981
+  },
+  {
+   "kind": "flora",
+   "name": "mango-tree",
+   "category": "Trees",
+   "source": "shakuntala",
+   "chunk": 1981
+  },
+  {
+   "kind": "flora",
+   "name": "jasmine",
+   "category": "Flowers",
+   "source": "shakuntala",
+   "chunk": 1982
+  },
+  {
+   "kind": "flora",
+   "name": "mango-tree",
+   "category": "Trees",
+   "source": "shakuntala",
+   "chunk": 1982
+  },
+  {
+   "kind": "flora",
+   "name": "spring-creeper",
+   "category": "Plants",
+   "source": "shakuntala",
+   "chunk": 1982
+  },
+  {
+   "kind": "flora",
+   "name": "jasmine",
+   "category": "Flowers",
+   "source": "shakuntala",
+   "chunk": 1984
+  },
+  {
+   "kind": "fauna",
+   "name": "bee",
+   "category": "Insects",
+   "source": "shakuntala",
+   "chunk": 1984
+  },
+  {
+   "kind": "fauna",
+   "name": "carp",
+   "category": "Fish",
+   "source": "shakuntala",
+   "chunk": 2070
+  },
+  {
+   "kind": "fauna",
+   "name": "lion",
+   "category": "Mammals",
+   "source": "shakuntala",
+   "chunk": 2170
+  },
+  {
+   "kind": "fauna",
+   "name": "bull",
+   "category": "Mammals",
+   "source": "shakuntala",
+   "chunk": 2242
+  },
+  {
+   "kind": "fauna",
+   "name": "elephant",
+   "category": "Reptiles",
+   "source": "shakuntala",
+   "chunk": 2242
+  },
+  {
+   "kind": "flora",
+   "name": "mango",
+   "category": "Crops",
+   "source": "shakuntala",
+   "chunk": 2272
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "shakuntala",
+   "chunk": 2279
+  },
+  {
+   "kind": "flora",
+   "name": "ashoka-tree",
+   "category": "Trees",
+   "source": "shakuntala",
+   "chunk": 2291
+  },
+  {
+   "kind": "flora",
+   "name": "bakul-tree",
+   "category": "Trees",
+   "source": "shakuntala",
+   "chunk": 2291
+  },
+  {
+   "kind": "fauna",
+   "name": "peacock",
+   "category": "Birds",
+   "source": "shakuntala",
+   "chunk": 2291
+  },
+  {
+   "kind": "flora",
+   "name": "lotus",
+   "category": "Flowers",
+   "source": "shakuntala",
+   "chunk": 2292
+  }
+ ],
+ "rejected": [
+  {
+   "kind": "flora",
+   "name": "mango",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "rose-apple",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "jackfruit",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "sal",
+   "category": "Tree",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "myrobolan",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "bo",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "golden tindook",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "banyan",
+   "category": "Tree",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "figs",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "dates",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "grapes",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "honeycomb",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "mango-trees",
+   "category": "Tree",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "date-palm",
+   "category": "Tree",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "coconut",
+   "category": "Fruit",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "ebony",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "aloe",
+   "category": "Plant",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "acacias",
+   "category": "Tree",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "fauna",
+   "name": "birds",
+   "category": "Bird",
+   "source": "jataka",
+   "chunk": 942,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "trumpet-flower",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 943,
+   "reason": "name not in passage"
+  },
+  {
+   "kind": "flora",
+   "name": "wmdana",
+   "category": "Plants",
+   "source": "jataka",
+   "chunk": 944,
+   "reason": "name not in passage"
+  },
+  {
+   "kind": "fauna",
+   "name": "buffalo",
+   "category": "Mammals",
+   "source": "jataka",
+   "chunk": 952,
+   "reason": "name not in passage"
+  },
+  {
+   "kind": "flora",
+   "name": "lotus root",
+   "category": "Flowers",
+   "source": "jataka",
+   "chunk": 985,
+   "reason": "name not in passage"
+  },
+  {
+   "kind": "fauna",
+   "name": "peacock",
+   "category": "Bird",
+   "source": "meghaduta",
+   "chunk": 1101,
+   "reason": "bad category"
+  },
+  {
+   "kind": "fauna",
+   "name": "cranes",
+   "category": "Bird",
+   "source": "meghaduta",
+   "chunk": 1101,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "kadamba",
+   "category": "Plant",
+   "source": "meghaduta",
+   "chunk": 1256,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "banana-tree",
+   "category": "Plant",
+   "source": "meghaduta",
+   "chunk": 1256,
+   "reason": "bad category"
+  },
+  {
+   "kind": "fauna",
+   "name": "heron",
+   "category": "Bird",
+   "source": "panchatantra",
+   "chunk": 1446,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "pomegranate",
+   "category": "Fruit",
+   "source": "panchatantra",
+   "chunk": 1503,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "ginger",
+   "category": "Herb",
+   "source": "panchatantra",
+   "chunk": 1503,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "rose-apple tree",
+   "category": "Trees",
+   "source": "panchatantra",
+   "chunk": 1822,
+   "reason": "name not in passage"
+  },
+  {
+   "kind": "fauna",
+   "name": "vine",
+   "category": "Flora",
+   "source": "shakuntala",
+   "chunk": 1981,
+   "reason": "bad category"
+  },
+  {
+   "kind": "flora",
+   "name": "cloud",
+   "category": "Flora",
+   "source": "shakuntala",
+   "chunk": 2279,
+   "reason": "bad category"
+  },
+  {
+   "kind": "fauna",
+   "name": "fish",
+   "category": "Fauna",
+   "source": "shakuntala",
+   "chunk": 2279,
+   "reason": "bad category"
+  },
+  {
+   "kind": "fauna",
+   "name": "elephants",
+   "category": "Fauna",
+   "source": "shakuntala",
+   "chunk": 2279,
+   "reason": "bad category"
+  }
+ ]
+}
