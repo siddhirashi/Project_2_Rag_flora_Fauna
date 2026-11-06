@@ -125,4 +125,4 @@ Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
 
 | File | URL |
 |---|---|
-| flora_fauna.py | https://github.com/USERNAME/REPOSITORY/blob/main/flora_fauna.py |
+| flora_fauna.py | [https://github.com/USERNAME/REPOSITORY/blob/main/flora_fauna.py](https://github.com/siddhirashi/Project_2_Rag_flora_Fauna/blob/main/flora_fauna.py) |
